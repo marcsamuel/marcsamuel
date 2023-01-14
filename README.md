@@ -13,6 +13,7 @@
 - <b>Hacking Practitioner</b>
   - [TryHackMe](https://tryhackme.com/p/marcsamuel)
   - [HackTheBox](https://www.hackthebox.com/home/users/profile/1353833)
+  - [HackerRank](https://www.hackerrank.com/marcsamuel)
   
 - <b>Cloud Challenges Competition</b>
   - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
