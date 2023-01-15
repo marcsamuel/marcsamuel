@@ -14,6 +14,7 @@
   - [TryHackMe](https://tryhackme.com/p/marcsamuel)
   - [HackTheBox](https://www.hackthebox.com/home/users/profile/1353833)
   - [HackerRank](https://www.hackerrank.com/marcsamuel)
+  - [LetsDefend](https://app.letsdefend.io/public-profile/user/marcsamuel/2dba3fa5-b088-4f3b-8117-829ccc4328c7)
   
 - <b>Cloud Challenges Competition</b>
   - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
