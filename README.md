@@ -10,12 +10,25 @@
   - [Microsoft Achievements](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/achievements)
 
   
-- <b>Hacking Practitioner</b>
+- <b>Hacking and Coding Practitioner Challenges</b>
   - [TryHackMe](https://tryhackme.com/p/marcsamuel)
   - [HackTheBox](https://www.hackthebox.com/home/users/profile/1353833)
   - [HackerRank](https://www.hackerrank.com/marcsamuel)
   - [LetsDefend](https://app.letsdefend.io/public-profile/user/marcsamuel/2dba3fa5-b088-4f3b-8117-829ccc4328c7)
   - [CodeWars](https://www.codewars.com/users/marcsamuel)
+  - [LeetCode](https://leetcode.com/marcsamuelpabilona/)
+  - [CodeChef](https://www.codechef.com/marcsamuel/)
+  - [CheckIO](https://py.checkio.org/user/marcsamuel/)
+  - [Stackleague](https://beta-accounts.stacktrek.com/profile)
+  - [TopCoder](https://platform.topcoder.com/profile/marcsamuel)
+  - [CoderByte](https://coderbyte.com/profile/marcsamuel)
+  - [CodinGame](https://www.codingame.com/profile/5bb0b5f0a00368417d1a7bc478dd87033549925)
+  - [Edabi](https://edabit.com/user/jymPGYLJ6JbDL2QTP)
+  - [CodeForces](https://codeforces.com/profile/marcsamuelpabilona)
+  - [ReplyChallenges](https://challenges.reply.com/tamtamy/user/modify.action)
+  - [Spoj](https://www.spoj.com/myaccount/)
+
+
   
 - <b>Cloud Challenges Competition</b>
   - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
