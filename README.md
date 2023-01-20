@@ -22,6 +22,7 @@
   - [CheckIO](https://py.checkio.org/user/marcsamuel/)
   - [Stackleague](https://beta-accounts.stacktrek.com/profile)
   - [CodeAcademy](https://www.codecademy.com/profiles/marcsamuelpabilona)
+  - [CodePenIO](https://codepen.io/marcsamuel/pen/JjBMyvL)
   - [TheOdinProject](https://www.theodinproject.com/dashboard)
   - [TopCoder](https://platform.topcoder.com/profile/marcsamuel)
   - [CoderByte](https://coderbyte.com/profile/marcsamuel)
