@@ -41,10 +41,10 @@
   - [BitDegree](https://www.bitdegree.org/user/dashboard/marcsamuelpabilona/main)
 
 - <b>100 Days of Cloud</b>
-   (https://www.100daysofcloud.com/)
-   (https://dev.to/t/100daysofcloud)
-   (https://github.com/starkfell/100DaysOfIaC/blob/master/README.md)
-   (https://github.com/JeffBrownTech/100DaysOfCloud)
+   [https://www.100daysofcloud.com/]
+   [https://dev.to/t/100daysofcloud]
+   [https://github.com/starkfell/100DaysOfIaC/blob/master/README.md]
+   [https://github.com/JeffBrownTech/100DaysOfCloud]
    
 - <b>Cloud Challenges Competition</b>
   - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
