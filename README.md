@@ -11,6 +11,12 @@
 
   
 - <b>Hacking and Coding Practitioner Challenges</b>
+  - [AttackDefense](https://attackdefense.pentesteracademy.com/challengedetailsnoauth?cid=1889)
+  - [OverTheWire](https://overthewire.org/wargames/bandit/bandit0.html)
+  - [Hacker101](https://www.hacker101.com/start-here#)
+  - [PentesterAcademy](https://www.pentesteracademy.com/topics)
+  - [Pentesterlab](https://pentesterlab.com/my)
+  - [VulnHub](https://www.vulnhub.com/)
   - [VulnMachines](https://account.vulnmachines.com/user/challenges)
   - [BlueTeamsLab](https://blueteamlabs.online/home/challenges)
   - [TryHackMe](https://tryhackme.com/p/marcsamuel)
@@ -34,8 +40,12 @@
   - [Spoj](https://www.spoj.com/myaccount/)
   - [BitDegree](https://www.bitdegree.org/user/dashboard/marcsamuelpabilona/main)
 
-
-  
+- <b>100 Days of Cloud</b>
+   (https://www.100daysofcloud.com/)
+   (https://dev.to/t/100daysofcloud)
+   (https://github.com/starkfell/100DaysOfIaC/blob/master/README.md)
+   (https://github.com/JeffBrownTech/100DaysOfCloud)
+   
 - <b>Cloud Challenges Competition</b>
   - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
   - [AWS Siklab Pilipinas – October 2020 ( Champion – CodeName: Cloudy)](https://awseducate.edukasyon.ph/certificate/2020-siklab-sept-y1TGWo5mAU?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email)
