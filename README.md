@@ -11,6 +11,7 @@
 
   
 - <b>Hacking and Coding Practitioner Challenges</b>
+  - [VulnMachines](https://account.vulnmachines.com/user/challenges)
   - [BlueTeamsLab](https://blueteamlabs.online/home/challenges)
   - [TryHackMe](https://tryhackme.com/p/marcsamuel)
   - [HackTheBox](https://www.hackthebox.com/home/users/profile/1353833)
