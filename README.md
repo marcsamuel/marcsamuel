@@ -51,6 +51,11 @@
   - [AWS Siklab Pilipinas – October 2020 ( Champion – CodeName: Cloudy)](https://awseducate.edukasyon.ph/certificate/2020-siklab-sept-y1TGWo5mAU?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email)
   - [Microsoft Challenges Completed](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/challenges)
 
+- <b>Self-Paced Cloud and Server Trainings</b>
+  - [Aure Citadel](https://www.azurecitadel.com/)
+  - [Cloud Society](https://cloudsociety.microsoft.com/en)
+  - [Server-World Info](https://www.server-world.info/en/)
+
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
   - [Bitbucket](https://bitbucket.org/marcsamuel)
