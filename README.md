@@ -60,10 +60,13 @@
   - [Linux Journey](https://linuxjourney.com/)
   - [Over The Wire](https://overthewire.org/wargames/bandit/)
   - [Linux Survival](https://linuxsurvival.com/)
+  - [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://www.youtube.com/watch?v=U1w4T03B30I)
   
 - <b>Pentesting</b>
   - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)
 ](https://www.youtube.com/watch?v=WnN6dbos5u8/)
+  - [Practical Ethical Hacking - The Complete Course FREE](https://academy.tcm-sec.com/courses/enrolled/1152300)
+  - [learn to HACK - The Best Way](https://www.youtube.com/watch?v=wIn3L24lksI)
 
 - <b>Web App Hacking</b>
   - [PortsSwigger](https://portswigger.net/web-security)
@@ -74,6 +77,10 @@
 - <b>Wireless Hacking</b>
   - [Hacking WPA2 Personal](https://www.aircrack-ng.org/doku.php?id=cracking_wpa)
   - [Hacking WPA2 Enterprise](https://cyberpunk.xyz/targeted-wpa2-enterprise-evil-twin-attacks-eaphammer)
+ 
+ - <b>Kubernetes</b>
+  - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8))
+
 
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
