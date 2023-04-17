@@ -60,6 +60,10 @@
   - [Linux Journey](https://linuxjourney.com/)
   - [Over The Wire](https://overthewire.org/wargames/bandit/)
   - [Linux Survival](https://linuxsurvival.com/)
+  
+ - <b>Pentesting</b>
+  - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)
+](https://www.youtube.com/watch?v=WnN6dbos5u8/)
 
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
