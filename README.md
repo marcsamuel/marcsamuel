@@ -65,6 +65,12 @@
   - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)
 ](https://www.youtube.com/watch?v=WnN6dbos5u8/)
 
+- <b>Web App Hacking</b>
+  - [PortsSwigger](https://portswigger.net/web-security)
+  - [Hacker101](https://hacker101.com)
+  - [Bug Crowd University](https://bugcrowd.com/hackers/bugcrowd-university)
+  - [HackerOne Write-Ups](https://hackerone.com/hacktivity)
+
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
   - [Bitbucket](https://bitbucket.org/marcsamuel)
