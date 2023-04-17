@@ -55,6 +55,11 @@
   - [Aure Citadel](https://www.azurecitadel.com/)
   - [Cloud Society](https://cloudsociety.microsoft.com/en)
   - [Server-World Info](https://www.server-world.info/en/)
+  
+- <b>Linux Hands-On</b>
+  - [Linux Journey](https://linuxjourney.com/)
+  - [Over The Wire](https://overthewire.org/wargames/bandit/)
+  - [Linux Survival](https://linuxsurvival.com/)
 
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
