@@ -71,6 +71,10 @@
   - [Bug Crowd University](https://bugcrowd.com/hackers/bugcrowd-university)
   - [HackerOne Write-Ups](https://hackerone.com/hacktivity)
 
+- <b>Wireless Hacking</b>
+  - [Hacking WPA2 Personal](https://www.aircrack-ng.org/doku.php?id=cracking_wpa)
+  - [Hacking WPA2 Enterprise](https://cyberpunk.xyz/targeted-wpa2-enterprise-evil-twin-attacks-eaphammer)
+
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
   - [Bitbucket](https://bitbucket.org/marcsamuel)
