@@ -78,8 +78,8 @@
   - [Hacking WPA2 Personal](https://www.aircrack-ng.org/doku.php?id=cracking_wpa)
   - [Hacking WPA2 Enterprise](https://cyberpunk.xyz/targeted-wpa2-enterprise-evil-twin-attacks-eaphammer)
  
- - <b>Kubernetes</b>
-  - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8))
+- <b>Kubernetes</b>
+  - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 
 
 - <b>IT Forums and Community</b>
