@@ -67,6 +67,7 @@
 ](https://www.youtube.com/watch?v=WnN6dbos5u8/)
   - [Practical Ethical Hacking - The Complete Course FREE](https://academy.tcm-sec.com/courses/enrolled/1152300)
   - [learn to HACK - The Best Way](https://www.youtube.com/watch?v=wIn3L24lksI)
+  - [eJPT Preparation Course | Penetration Testing](https://www.youtube.com/watch?v=pdgBU9MDAwE)
 
 - <b>Web App Hacking</b>
   - [PortsSwigger](https://portswigger.net/web-security)
