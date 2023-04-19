@@ -82,7 +82,10 @@
 - <b>Kubernetes</b>
   - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 
-
+- <b>Python</b>
+  - [Python for Beginners - Full Course](https://www.youtube.com/watch?v=7utwZYKweho)
+  
+  
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
   - [Bitbucket](https://bitbucket.org/marcsamuel)
