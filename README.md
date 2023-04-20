@@ -68,7 +68,11 @@
   - [Practical Ethical Hacking - The Complete Course FREE](https://academy.tcm-sec.com/courses/enrolled/1152300)
   - [learn to HACK - The Best Way](https://www.youtube.com/watch?v=wIn3L24lksI)
   - [eJPT Preparation Course | Penetration Testing](https://www.youtube.com/watch?v=pdgBU9MDAwE)
-
+  
+- <b>APISEC</b>
+  - [APISEC](https://university.apisec.ai/library)
+  
+  
 - <b>Web App Hacking</b>
   - [PortsSwigger](https://portswigger.net/web-security)
   - [Hacker101](https://hacker101.com)
