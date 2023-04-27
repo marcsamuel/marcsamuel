@@ -45,17 +45,19 @@
   - [BitDegree](https://www.bitdegree.org/user/dashboard/marcsamuelpabilona/main)
 
 - <b>100 Days of Cloud</b>
+   
    [https://www.100daysofcloud.com/]
    [https://dev.to/t/100daysofcloud]
    [https://github.com/starkfell/100DaysOfIaC/blob/master/README.md]
    [https://github.com/JeffBrownTech/100DaysOfCloud]
-   
+  - [Exam AZ-104 - Microsoft Azure Administrator Crash Course](https://github.com/timothywarner/az104)
 
 - <b>Self-Paced Cloud and Server Trainings</b>
   - [Aure Citadel](https://www.azurecitadel.com/)
   - [Cloud Society](https://cloudsociety.microsoft.com/en)
   - [Server-World Info](https://www.server-world.info/en/)
   
+ 
 - <b>Linux Hands-On</b>
   - [BashScripting](https://opensource.com/sites/default/files/gated-content/a_sysadmin_s_guide_to_bash_scripting.pdf)
   - [Linux Journey](https://linuxjourney.com/)
