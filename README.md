@@ -57,6 +57,7 @@
   - [Server-World Info](https://www.server-world.info/en/)
   
 - <b>Linux Hands-On</b>
+  - [BashScripting](https://opensource.com/sites/default/files/gated-content/a_sysadmin_s_guide_to_bash_scripting.pdf)
   - [Linux Journey](https://linuxjourney.com/)
   - [Over The Wire](https://overthewire.org/wargames/bandit/)
   - [Linux Survival](https://linuxsurvival.com/)
@@ -105,7 +106,9 @@
 - <b>Website Samples</b>
   - [Zuitt - March 27 20222](https://marcsamuel.github.io/fcb-portfolio-pabilona/)
 
-
+- <b>IT Roadmap</b>
+  - [Roadmap](https://roadmap.sh/)
+  
 <h2>📺 IT Community Tech Talks</h2>
 
 - [From Zero to Hero Cloud Operations - October 16 2022] (https://www.facebook.com/fwdpeers/videos/3420834228197526)
