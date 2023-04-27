@@ -47,9 +47,13 @@
 - <b>100 Days of Cloud</b>
    
    [https://www.100daysofcloud.com/]
+   
    [https://dev.to/t/100daysofcloud]
+   
    [https://github.com/starkfell/100DaysOfIaC/blob/master/README.md]
+   
    [https://github.com/JeffBrownTech/100DaysOfCloud]
+   
   - [Exam AZ-104 - Microsoft Azure Administrator Crash Course](https://github.com/timothywarner/az104)
 
 - <b>Self-Paced Cloud and Server Trainings</b>
