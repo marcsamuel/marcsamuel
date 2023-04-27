@@ -9,6 +9,10 @@
   - [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/marcsamuelpabilona/)
   - [Microsoft Achievements](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/achievements)
 
+- <b>Cloud Challenges Competition</b>
+  - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
+  - [AWS Siklab Pilipinas – October 2020 ( Champion – CodeName: Cloudy)](https://awseducate.edukasyon.ph/certificate/2020-siklab-sept-y1TGWo5mAU?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email)
+  - [Microsoft Challenges Completed](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/challenges)
   
 - <b>Hacking and Coding Practitioner Challenges</b>
   - [AttackDefense](https://attackdefense.pentesteracademy.com/challengedetailsnoauth?cid=1889)
@@ -46,10 +50,6 @@
    [https://github.com/starkfell/100DaysOfIaC/blob/master/README.md]
    [https://github.com/JeffBrownTech/100DaysOfCloud]
    
-- <b>Cloud Challenges Competition</b>
-  - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
-  - [AWS Siklab Pilipinas – October 2020 ( Champion – CodeName: Cloudy)](https://awseducate.edukasyon.ph/certificate/2020-siklab-sept-y1TGWo5mAU?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email)
-  - [Microsoft Challenges Completed](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/challenges)
 
 - <b>Self-Paced Cloud and Server Trainings</b>
   - [Aure Citadel](https://www.azurecitadel.com/)
@@ -69,6 +69,7 @@
   - [Practical Ethical Hacking - The Complete Course FREE](https://academy.tcm-sec.com/courses/enrolled/1152300)
   - [learn to HACK - The Best Way](https://www.youtube.com/watch?v=wIn3L24lksI)
   - [eJPT Preparation Course | Penetration Testing](https://www.youtube.com/watch?v=pdgBU9MDAwE)
+  - [(Updated) Learn Career Based Ethical Hacking Full Course 2023 in 20 Hours With Software | Part-1](https://www.youtube.com/watch?v=BWcygyhRS9k)
   
 - <b>APISEC</b>
   - [APISEC](https://university.apisec.ai/library)
