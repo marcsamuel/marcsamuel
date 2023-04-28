@@ -68,7 +68,11 @@
   - [Over The Wire](https://overthewire.org/wargames/bandit/)
   - [Linux Survival](https://linuxsurvival.com/)
   - [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://www.youtube.com/watch?v=U1w4T03B30I)
-  
+
+- <b>CYBERSOC</b>
+  - [CYBERSOC IT LIBRARY](https://linktr.ee/cybersocitlibrary?fbclid=IwAR0jKwUI5JJHN-rItbf2BsnaHIcYnBEjswyG19RRw3Me1Mx4Y2Vc-oyLocE)
+
+
 - <b>Pentesting</b>
   - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)
 ](https://www.youtube.com/watch?v=WnN6dbos5u8/)
