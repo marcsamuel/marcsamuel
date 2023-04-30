@@ -55,6 +55,7 @@
    [https://github.com/JeffBrownTech/100DaysOfCloud]
    
   - [Exam AZ-104 - Microsoft Azure Administrator Crash Course](https://github.com/timothywarner/az104)
+  - [Free Getting Started with Microsoft DevOps - Welcome](https://www.youtube.com/watch?v=HsSiC3m2c98&list=UULFvFGhYUNKHJwpdd5ITj6tPg)
 
 - <b>Self-Paced Cloud and Server Trainings</b>
   - [Aure Citadel](https://www.azurecitadel.com/)
@@ -95,7 +96,8 @@
   - [Hacking WPA2 Personal](https://www.aircrack-ng.org/doku.php?id=cracking_wpa)
   - [Hacking WPA2 Enterprise](https://cyberpunk.xyz/targeted-wpa2-enterprise-evil-twin-attacks-eaphammer)
  
-- <b>Kubernetes</b>
+- <b>Docker and Kubernetes</b>
+  - [Play with Docker](https://labs.play-with-docker.com/)
   - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8)
 
 - <b>Python</b>
