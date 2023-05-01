@@ -72,6 +72,7 @@
 
 - <b>CYBERSOC</b>
   - [CYBERSOC IT LIBRARY](https://linktr.ee/cybersocitlibrary?fbclid=IwAR0jKwUI5JJHN-rItbf2BsnaHIcYnBEjswyG19RRw3Me1Mx4Y2Vc-oyLocE)
+  - [Security Architecture Patterns](https://www.opensecurityarchitecture.org/cms/library/patternlandscape)
   - [SOC Fundamentals](https://github.com/cyb3rxp/awesome-soc/blob/main/soc_basics.md?fbclid=IwAR2TugnobGLCTZJcizQxic9PzAOo3ZWQtCtuNM1Hf9xRc7-o8pJ0OS7Vh1c)
   - [Blue Team](https://securityblue.team/why-btl1/?fbclid=IwAR2d40y5-ub5Gy6v3v7CZmUCbMzkv3xpl9VIriIEDf8AgofpR3gBTeQLF6o)
 
