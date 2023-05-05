@@ -84,6 +84,7 @@
   - [learn to HACK - The Best Way](https://www.youtube.com/watch?v=wIn3L24lksI)
   - [eJPT Preparation Course | Penetration Testing](https://www.youtube.com/watch?v=pdgBU9MDAwE)
   - [(Updated) Learn Career Based Ethical Hacking Full Course 2023 in 20 Hours With Software | Part-1](https://www.youtube.com/watch?v=BWcygyhRS9k)
+  - [PentestGPT](https://gbhackers.com/pentestgpt/?fbclid=IwAR126QGBc7oFrQumcxYOk2OV0TBfGSDsrl732-ZQZOraQG4Rz0Ni90UA6h4)
   
 - <b>APISEC</b>
   - [APISEC](https://university.apisec.ai/library)
