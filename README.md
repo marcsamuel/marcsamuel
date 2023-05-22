@@ -76,6 +76,7 @@
   - [SOC Fundamentals](https://github.com/cyb3rxp/awesome-soc/blob/main/soc_basics.md?fbclid=IwAR2TugnobGLCTZJcizQxic9PzAOo3ZWQtCtuNM1Hf9xRc7-o8pJ0OS7Vh1c)
   - [Blue Team](https://securityblue.team/why-btl1/?fbclid=IwAR2d40y5-ub5Gy6v3v7CZmUCbMzkv3xpl9VIriIEDf8AgofpR3gBTeQLF6o)
   - [Microsoft Learn Cloud Games](https://learn.microsoft.com/en-us/training/cloud-games?wt.mc_id=cloudgames_tw_organicsocial_wwl)
+  - [BlueBox Malware analysis Box and Cyber threat Hunting](https://github.com/svdwi/BlueBox?fbclid=IwAR3rHbkAgoZV63kFIXgD_mO623w6YazUdfYymdx3fxTSw-jybhataVYt2t4)
 
 - <b>Pentesting</b>
   - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)
