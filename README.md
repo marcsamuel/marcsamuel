@@ -87,6 +87,10 @@
   - [(Updated) Learn Career Based Ethical Hacking Full Course 2023 in 20 Hours With Software | Part-1](https://www.youtube.com/watch?v=BWcygyhRS9k)
   - [PentestGPT](https://gbhackers.com/pentestgpt/?fbclid=IwAR126QGBc7oFrQumcxYOk2OV0TBfGSDsrl732-ZQZOraQG4Rz0Ni90UA6h4)
   - [Evolve Academy](https://cyberlab.evolvesecurity.com/#/cohort/75a23a22-9a5c-ea11-a811-000d3a1b1d16/module/29bdcb9a-ed5f-ea11-a811-000d3a1b1d16/topic/cfbf2465-186e-ea11-a811-000d3a1b1d16)
+
+- <b>Cracking, Decoding, Cipher Tools</b>
+ - [Pigpen Cipher](https://www.boxentriq.com/code-breaking/pigpen-cipher)
+ - [Crack Station](https://crackstation.net/))
   
 - <b>APISEC</b>
   - [APISEC](https://university.apisec.ai/library)
