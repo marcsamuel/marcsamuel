@@ -92,6 +92,9 @@
   - [Pigpen Cipher](https://www.boxentriq.com/code-breaking/pigpen-cipher)
   - [Crack Station](https://crackstation.net/)
   - [Browserling](https://www.browserling.com/tools/text-transpose)
+
+- <b>Threat Hunting</b>
+  - [MISP Threat Sharing](https://www.misp-project.org/documentation/)
   
 - <b>APISEC</b>
   - [APISEC](https://university.apisec.ai/library)
