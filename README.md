@@ -113,6 +113,11 @@
 - <b>Docker and Kubernetes</b>
   - [Play with Docker](https://labs.play-with-docker.com/)
   - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8)
+  - [100 Days of Kubernetes] (https://100daysofkubernetes.io/overview.html)
+  - [100 days of Code] (https://www.100daysofcode.com/)
+  - [100 days of Cloud] (https://www.100daysofcloud.com/)
+  - [100 Cloud Project Ideas] (https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+  - [Cloud Security] (https://github.com/100DaysOfCloud/100DaysOfCloudIdeas#-sec--cloud-security)
 
 - <b>Python</b>
   - [Python for Beginners - Full Course](https://www.youtube.com/watch?v=7utwZYKweho)
