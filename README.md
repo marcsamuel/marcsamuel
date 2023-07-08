@@ -95,6 +95,9 @@
 
 - <b>Threat Hunting</b>
   - [MISP Threat Sharing](https://www.misp-project.org/documentation/)
+
+- <b>Open Source Security Index</b>
+  - [Open Source Security Index](https://opensourcesecurityindex.io/)
   
 - <b>APISEC</b>
   - [APISEC](https://university.apisec.ai/library)
