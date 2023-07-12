@@ -78,6 +78,10 @@
   - [Microsoft Learn Cloud Games](https://learn.microsoft.com/en-us/training/cloud-games?wt.mc_id=cloudgames_tw_organicsocial_wwl)
   - [BlueBox Malware analysis Box and Cyber threat Hunting](https://github.com/svdwi/BlueBox?fbclid=IwAR3rHbkAgoZV63kFIXgD_mO623w6YazUdfYymdx3fxTSw-jybhataVYt2t4)
 
+- <b>System Design Gurus</b>
+  - [System Design Master Template](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/645d5161fff33a24ccce4bb1)
+  - [System Design Master Template](https://www.designgurus.io/course/grokking-the-advanced-system-design-interview)
+
 - <b>Pentesting</b>
   - [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)
 ](https://www.youtube.com/watch?v=WnN6dbos5u8/)
