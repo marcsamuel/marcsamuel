@@ -106,7 +106,12 @@
   
 - <b>APISEC</b>
   - [APISEC](https://university.apisec.ai/library)
-  
+ 
+- <b>Vulnerability Repositories</b>
+  - [Microsoft Security Guide](https://msrc.microsoft.com/update-guide/vulnerability)
+  - [Apple Security Release](https://support.apple.com/en-us/HT201222)
+  - [Ubuntu Security CVE](https://ubuntu.com/security/cves)
+  - [Google Cloud Security](https://cloud.google.com/support/bulletins)
   
 - <b>Web App Hacking</b>
   - [PortsSwigger](https://portswigger.net/web-security)
