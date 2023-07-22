@@ -78,7 +78,9 @@
   - [Microsoft Learn Cloud Games](https://learn.microsoft.com/en-us/training/cloud-games?wt.mc_id=cloudgames_tw_organicsocial_wwl)
   - [BlueBox Malware analysis Box and Cyber threat Hunting](https://github.com/svdwi/BlueBox?fbclid=IwAR3rHbkAgoZV63kFIXgD_mO623w6YazUdfYymdx3fxTSw-jybhataVYt2t4)
   - [The Best SOC Analyst Tool](https://media.licdn.com/dms/document/media/D4E1FAQFOF9a56PUiLA/feedshare-document-pdf-analyzed/0/1688471646298?e=1690416000&v=beta&t=XXwnFvkTlKcPzfMGDgzM1-DhTVgFCDFa__vGZzhynU8)
-  - 
+
+- <b>Incident Response Playbook</b>(https://www.incidentresponse.org/playbooks/)
+
 
 - <b>Best practices for an effective cybersecurity strategy</b>(https://www.csoonline.com/article/644796/best-practices-for-an-effective-cybersecurity-strategy.html?fbclid=IwAR3iTBdupAdXqD-AHbqmdb1WHNbGV9rbj_euwzjnN8URtBwN9U_LuOfKTZE)
 
