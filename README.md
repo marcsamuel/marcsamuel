@@ -142,6 +142,9 @@
 
 - <b>Python</b>
   - [Python for Beginners - Full Course](https://www.youtube.com/watch?v=7utwZYKweho)
+ 
+- <b>DevOps Exercise</b>
+  - [DevOps Exercise](https://github.com/bregman-arie/devops-exercises?fbclid=IwAR33N5-TiEtCrzCm6Z6F429WEI9PfoDCHfvjG--6iU7PSwhQbbw7sUZT244)
   
   
 - <b>IT Forums and Community</b>
