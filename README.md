@@ -162,12 +162,21 @@
 - <b>Website Samples</b>
   - [Zuitt - March 27 20222](https://marcsamuel.github.io/fcb-portfolio-pabilona/)
 
+- <b>OTHER GITHUB</b>
+  - [Security Engineering at Google: My Interview Study Notes](https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md)
+  - [Google Cybersecurity](https://github.com/ethansilvas/google-cybersecurity)
+  - [Cyber Guide Me Tools](https://github.com/cyberguideme/Tools)
+  - [WAPT-Labs-Setup](https://github.com/clarencesubia/WAPT-Labs-Setup?fbclid=IwAR1D95NUHHQIxKJn8PL2i25dEKWYh-jqHhhLLIpKqEVz3JNN44FEnKtKG20)
+  - [DEVOPS EXERCISES](https://github.com/bregman-arie/devops-exercises?fbclid=IwAR3wI0ciUgUmsQPNjktOXt8rdekWNxIgqDXAb22MZ-Kbg1rFSqV5aDtbXtI)
+
 - <b>IT Roadmap</b>
   - [Roadmap](https://roadmap.sh/)
   
 <h2>📺 IT Community Tech Talks</h2>
 
 - [From Zero to Hero Cloud Operations - October 16 2022] (https://www.facebook.com/fwdpeers/videos/3420834228197526)
+
+  
 
 <h2> 🤳 Connect with me:</h2>
 
