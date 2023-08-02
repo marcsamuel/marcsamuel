@@ -134,11 +134,12 @@
 - <b>Docker and Kubernetes</b>
   - [Play with Docker](https://labs.play-with-docker.com/)
   - [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/watch?v=PN3VqbZqmD8)
-  - [100 Days of Kubernetes] (https://100daysofkubernetes.io/overview.html)
-  - [100 days of Code] (https://www.100daysofcode.com/)
-  - [100 days of Cloud] (https://www.100daysofcloud.com/)
-  - [100 Cloud Project Ideas] (https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
-  - [Cloud Security] (https://github.com/100DaysOfCloud/100DaysOfCloudIdeas#-sec--cloud-security)
+  - [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)
+  - [100 days of Code](https://www.100daysofcode.com/)
+  - [100 days of Cloud](https://www.100daysofcloud.com/)
+  - [100 Cloud Project Ideas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+  - [Cloud Security](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas#-sec--cloud-security)
+  - [Kubernetes 101](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1?fbclid=IwAR1OHQ8TeBTVnaM-Gcd9MLiMRzAFVVkZlkoI2fMJ2bsvBm03IvptSCDSJiE)
 
 - <b>Python</b>
   - [Python for Beginners - Full Course](https://www.youtube.com/watch?v=7utwZYKweho)
@@ -167,7 +168,6 @@
   - [Google Cybersecurity](https://github.com/ethansilvas/google-cybersecurity)
   - [Cyber Guide Me Tools](https://github.com/cyberguideme/Tools)
   - [WAPT-Labs-Setup](https://github.com/clarencesubia/WAPT-Labs-Setup?fbclid=IwAR1D95NUHHQIxKJn8PL2i25dEKWYh-jqHhhLLIpKqEVz3JNN44FEnKtKG20)
-  - [DEVOPS EXERCISES](https://github.com/bregman-arie/devops-exercises?fbclid=IwAR3wI0ciUgUmsQPNjktOXt8rdekWNxIgqDXAb22MZ-Kbg1rFSqV5aDtbXtI)
 
 - <b>IT Roadmap</b>
   - [Roadmap](https://roadmap.sh/)
