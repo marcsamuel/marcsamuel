@@ -44,6 +44,9 @@
   - [Spoj](https://www.spoj.com/myaccount/)
   - [BitDegree](https://www.bitdegree.org/user/dashboard/marcsamuelpabilona/main)
 
+- <b>Hacking Resources</b>
+  - [Hacking Resources](https://github.com/Crypto-Cat/CTF/blob/main/README.md)
+
 - <b>100 Days of Cloud</b>
    
    [https://www.100daysofcloud.com/]
