@@ -179,6 +179,7 @@
 - <b>IT Roadmap</b>
   - [Roadmap](https://roadmap.sh/)
   - [How to become an ethical hacker: A step-by-step guide](https://www.hackthebox.com/blog/become-an-ethical-hacker-a-career-guide-for-ethical-hacking)
+  - [unlocking-the-world-of-cybersecurity-with-ctfs](https://cyberrubik.com/unlocking-the-world-of-cybersecurity-with-ctfs/)
     
 <h2>📺 IT Community Tech Talks</h2>
 
