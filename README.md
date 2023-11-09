@@ -178,7 +178,8 @@
 
 - <b>IT Roadmap</b>
   - [Roadmap](https://roadmap.sh/)
-  
+  - [How to become an ethical hacker: A step-by-step guide](https://www.hackthebox.com/blog/become-an-ethical-hacker-a-career-guide-for-ethical-hacking)
+    
 <h2>📺 IT Community Tech Talks</h2>
 
 - [From Zero to Hero Cloud Operations - October 16 2022] (https://www.facebook.com/fwdpeers/videos/3420834228197526)
