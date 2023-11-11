@@ -104,6 +104,7 @@
   - [Evolve Academy](https://cyberlab.evolvesecurity.com/#/cohort/75a23a22-9a5c-ea11-a811-000d3a1b1d16/module/29bdcb9a-ed5f-ea11-a811-000d3a1b1d16/topic/cfbf2465-186e-ea11-a811-000d3a1b1d16)
   - [Pentest-Tools-Collection]{https://github.com/LuemmelSec/Pentest-Tools-Collection)
   - [NMAP for Pentesters](https://github.com/Ignitetechnologies/Nmap-For-Pentester/blob/main/README.md)
+  - [NMAP CHEATSHEET](https://medium.com/@marcsamuelpabilona/nmap-cheatsheet-f038ed2ddb8e)
 
 - <b>Cracking, Decoding, Cipher Tools</b>
   - [Pigpen Cipher](https://www.boxentriq.com/code-breaking/pigpen-cipher)
