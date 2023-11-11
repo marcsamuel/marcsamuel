@@ -102,7 +102,7 @@
   - [(Updated) Learn Career Based Ethical Hacking Full Course 2023 in 20 Hours With Software | Part-1](https://www.youtube.com/watch?v=BWcygyhRS9k)
   - [PentestGPT](https://gbhackers.com/pentestgpt/?fbclid=IwAR126QGBc7oFrQumcxYOk2OV0TBfGSDsrl732-ZQZOraQG4Rz0Ni90UA6h4)
   - [Evolve Academy](https://cyberlab.evolvesecurity.com/#/cohort/75a23a22-9a5c-ea11-a811-000d3a1b1d16/module/29bdcb9a-ed5f-ea11-a811-000d3a1b1d16/topic/cfbf2465-186e-ea11-a811-000d3a1b1d16)
-  - [Pentest-Tools-Collection]{https://github.com/LuemmelSec/Pentest-Tools-Collection)
+  - [Pentest-Tools-Collection](https://github.com/LuemmelSec/Pentest-Tools-Collection)
   - [NMAP for Pentesters](https://github.com/Ignitetechnologies/Nmap-For-Pentester/blob/main/README.md)
   - [NMAP CHEATSHEET](https://medium.com/@marcsamuelpabilona/nmap-cheatsheet-f038ed2ddb8e)
 
