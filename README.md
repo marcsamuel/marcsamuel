@@ -110,6 +110,13 @@
   - [Pigpen Cipher](https://www.boxentriq.com/code-breaking/pigpen-cipher)
   - [Crack Station](https://crackstation.net/)
   - [Browserling](https://www.browserling.com/tools/text-transpose)
+  - [Hashes](https://hashes.com/en/decrypt/hash?fbclid=IwAR1zAa0NOjd5cX7ITdcjXi3TEojgItbGhUTGaBmJSCJmWs-dwOScBh0t9ek)
+  - [CMD5](https://cmd5.org/?fbclid=IwAR0eHVN9mQy9fnvbF-tHoCk5jVp5vuWol67rWt1s_FwJ3cdH4AM3XJnYsqQ)
+  - [MD5EncryptDecrypt](https://md5decrypt.net/?fbclid=IwAR23QP9KBFPbqSRQz86pce5CrNsJXEUovgJEJLJSTIDy8W9hrAum264qLKo)
+  - [OnlineHashCrack](https://www.onlinehashcrack.com/?fbclid=IwAR3DQfrjhjES1vmaR48-CGcxtIK8usSJxjrZLfaH8NDjGs5l-khU7MWdsm8)
+  - [HashCat](https://github.com/hashcat/hashcat?fbclid=IwAR2k6ZYBcRT6hZ-on5uUqGXEwG0vLNjlJnLkGFVPJ4eFpbORr_8M6ik0wDI)
+  - [SearchTheHash](https://github.com/HashPals/Search-That-Hash?fbclid=IwAR3uB5ymLWGUjdu5EZjP2TJxj758SHy6WbmWvhG0VU1AjMwgDMEekwJXnKA)
+  - [HackUnderWay](https://www.patreon.com/HackUnderway?fbclid=IwAR0CySKKe0CQ6CFFsx5BCwt_f325WE7zr9-BP70VsDsSu61Aa_ot9aGdv_c)
 
 - <b>Threat Hunting</b>
   - [MISP Threat Sharing](https://www.misp-project.org/documentation/)
