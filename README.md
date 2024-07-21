@@ -65,7 +65,9 @@
   - [Cloud Society](https://cloudsociety.microsoft.com/en)
   - [Server-World Info](https://www.server-world.info/en/)
   
- 
+- <b>Free_CyberSecurity_Professional_Development_Resources</b>
+  - [SimplyCyber.io](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources/blob/master/README.md)
+
 - <b>Linux Hands-On</b>
   - [BashScripting](https://opensource.com/sites/default/files/gated-content/a_sysadmin_s_guide_to_bash_scripting.pdf)
   - [Linux Journey](https://linuxjourney.com/)
