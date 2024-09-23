@@ -80,6 +80,7 @@
   - [Security Architecture Patterns](https://www.opensecurityarchitecture.org/cms/library/patternlandscape)
   - [SOC Fundamentals](https://github.com/cyb3rxp/awesome-soc/blob/main/soc_basics.md?fbclid=IwAR2TugnobGLCTZJcizQxic9PzAOo3ZWQtCtuNM1Hf9xRc7-o8pJ0OS7Vh1c)
   - [Blue Team](https://securityblue.team/why-btl1/?fbclid=IwAR2d40y5-ub5Gy6v3v7CZmUCbMzkv3xpl9VIriIEDf8AgofpR3gBTeQLF6o)
+  - [Blue Team Labs](https://blueteamlabs.online/home/challenges)
   - [Microsoft Learn Cloud Games](https://learn.microsoft.com/en-us/training/cloud-games?wt.mc_id=cloudgames_tw_organicsocial_wwl)
   - [BlueBox Malware analysis Box and Cyber threat Hunting](https://github.com/svdwi/BlueBox?fbclid=IwAR3rHbkAgoZV63kFIXgD_mO623w6YazUdfYymdx3fxTSw-jybhataVYt2t4)
   - [The Best SOC Analyst Tool](https://media.licdn.com/dms/document/media/D4E1FAQFOF9a56PUiLA/feedshare-document-pdf-analyzed/0/1688471646298?e=1690416000&v=beta&t=XXwnFvkTlKcPzfMGDgzM1-DhTVgFCDFa__vGZzhynU8)
