@@ -158,6 +158,7 @@
 
 - <b>Python</b>
   - [Python for Beginners - Full Course](https://www.youtube.com/watch?v=7utwZYKweho)
+  - [Building Custom Cybersecurity Tools with Python -  A Guide for Beginners](https://www.linkedin.com/pulse/building-custom-cybersecurity-tools-python-bi6if/)
  
 - <b>DevOps Exercise</b>
   - [DevOps Exercise](https://github.com/bregman-arie/devops-exercises?fbclid=IwAR33N5-TiEtCrzCm6Z6F429WEI9PfoDCHfvjG--6iU7PSwhQbbw7sUZT244)
