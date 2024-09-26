@@ -13,6 +13,9 @@
   - [Google Cloud and AWS Challenges](https://google.qwiklabs.com/public_profiles/bc541417-a7ed-430e-a58d-815be05ba528#)
   - [AWS Siklab Pilipinas – October 2020 ( Champion – CodeName: Cloudy)](https://awseducate.edukasyon.ph/certificate/2020-siklab-sept-y1TGWo5mAU?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email)
   - [Microsoft Challenges Completed](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/challenges)
+
+- <b>CLOUD SECURITY</b>
+  -[CLOUD SECURITY](https://pwnedlabs.io/)
   
 - <b>Hacking and Coding Practitioner Challenges</b>
   - [AttackDefense](https://attackdefense.pentesteracademy.com/challengedetailsnoauth?cid=1889)
