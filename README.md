@@ -16,6 +16,9 @@
 
 - <b>CLOUD SECURITY</b>
   -[CLOUD SECURITY](https://pwnedlabs.io/)
+
+- <b>FREE GRC</b>
+  -[FREE GRC](https://www.freecyber.info/starthere)
   
 - <b>Hacking and Coding Practitioner Challenges</b>
   - [AttackDefense](https://attackdefense.pentesteracademy.com/challengedetailsnoauth?cid=1889)
