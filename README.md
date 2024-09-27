@@ -19,6 +19,13 @@
 
 - <b>FREE GRC</b>
   -[FREE GRC](https://www.freecyber.info/starthere)
+
+- <b>FREE OFFENSIVE</b>
+  -[TRY HACK ME](https://tryhackme.com/r/resources/blog/free-offensive-security-training)
+  -[Free Information Security Training By Offensive Security](https://www.offsec.com/blog/free-online-information-security-training-by-offensive-security/)
+  -[How to get access to free content in the OffSec Learning Library](https://help.offsec.com/hc/en-us/articles/360044925031-How-to-get-access-to-free-content-in-the-OffSec-Learning-Library)
+  -[Exploring OffSec's Free Products](https://help.offsec.com/hc/en-us/articles/25096922531604-Exploring-OffSec-s-Free-Products)
+  -[Metasploit Unleashed - Free Online Ethical Hacking Course](https://www.offsec.com/metasploit-unleashed/)
   
 - <b>Hacking and Coding Practitioner Challenges</b>
   - [AttackDefense](https://attackdefense.pentesteracademy.com/challengedetailsnoauth?cid=1889)
