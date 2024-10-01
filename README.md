@@ -81,6 +81,10 @@
 - <b>Free_CyberSecurity_Professional_Development_Resources</b>
   - [SimplyCyber.io](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources/blob/master/README.md)
 
+- <b>Free_CyberSecurity_Internship</b>
+  - [FORAGE](https://www.theforage.com/)
+  - [FREECYBER_INFO](https://www.freecyber.info/apprenticeship)
+
 - <b>Linux Hands-On</b>
   - [BashScripting](https://opensource.com/sites/default/files/gated-content/a_sysadmin_s_guide_to_bash_scripting.pdf)
   - [Linux Journey](https://linuxjourney.com/)
@@ -178,8 +182,8 @@
 
 - <b>Azure Admin Exercises</b>
   - [Azure VM Backup](https://udemy.com/labs/backing-up-azure-vms-with-azure-backup/project-overview/)
-  
-  
+
+
 - <b>IT Forums and Community</b>
   - [Github](https://github.com/marcsamuel)
   - [Bitbucket](https://bitbucket.org/marcsamuel)
