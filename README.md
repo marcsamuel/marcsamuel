@@ -16,6 +16,7 @@
 
 - <b>CLOUD SECURITY</b>
   -[CLOUD SECURITY](https://pwnedlabs.io/)
+  -[CYBERNOW EDUCATION](https://www.cybernoweducation.com/challenge-page/cloud-security-now?programId=6e8b17c2-4971-43fb-9b7c-479cb6ce23d1)
 
 - <b>FREE_GRC</b>
   -[FREE GRC](https://www.freecyber.info/starthere)
