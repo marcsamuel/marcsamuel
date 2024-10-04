@@ -15,18 +15,19 @@
   - [Microsoft Challenges Completed](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/challenges)
 
 - <b>CLOUD SECURITY</b>
-  -[CLOUD SECURITY](https://pwnedlabs.io/)
-  -[CYBERNOW EDUCATION](https://www.cybernoweducation.com/challenge-page/cloud-security-now?programId=6e8b17c2-4971-43fb-9b7c-479cb6ce23d1)
+  - [CLOUD SECURITY](https://pwnedlabs.io/)
+  - [CYBERNOW EDUCATION](https://www.cybernoweducation.com/challenge-page/cloud-security-now?programId=6e8b17c2-4971-43fb-9b7c-479cb6ce23d1)
+  - [Preparing for Your Professional Cloud Security Engineer Journey](https://www.cloudskillsboost.google/course_templates/397/video/376097)
 
 - <b>FREE_GRC</b>
-  -[FREE GRC](https://www.freecyber.info/starthere)
+  - [FREE GRC](https://www.freecyber.info/starthere)
 
 - <b>FREE_OFFENSIVE</b>
-  -[TRY HACK ME](https://tryhackme.com/r/resources/blog/free-offensive-security-training)
-  -[Free Information Security Training By Offensive Security](https://www.offsec.com/blog/free-online-information-security-training-by-offensive-security/)
-  -[How to get access to free content in the OffSec Learning Library](https://help.offsec.com/hc/en-us/articles/360044925031-How-to-get-access-to-free-content-in-the-OffSec-Learning-Library)
-  -[Exploring OffSec's Free Products](https://help.offsec.com/hc/en-us/articles/25096922531604-Exploring-OffSec-s-Free-Products)
-  -[Metasploit Unleashed - Free Online Ethical Hacking Course](https://www.offsec.com/metasploit-unleashed/)
+  - [TRY HACK ME](https://tryhackme.com/r/resources/blog/free-offensive-security-training)
+  - [Free Information Security Training By Offensive Security](https://www.offsec.com/blog/free-online-information-security-training-by-offensive-security/)
+  - [How to get access to free content in the OffSec Learning Library](https://help.offsec.com/hc/en-us/articles/360044925031-How-to-get-access-to-free-content-in-the-OffSec-Learning-Library)
+  - [Exploring OffSec's Free Products](https://help.offsec.com/hc/en-us/articles/25096922531604-Exploring-OffSec-s-Free-Products)
+  - [Metasploit Unleashed - Free Online Ethical Hacking Course](https://www.offsec.com/metasploit-unleashed/)
   
 - <b>Hacking and Coding Practitioner Challenges</b>
   - [AttackDefense](https://attackdefense.pentesteracademy.com/challengedetailsnoauth?cid=1889)
