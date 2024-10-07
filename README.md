@@ -14,7 +14,8 @@
   - [AWS Siklab Pilipinas – October 2020 ( Champion – CodeName: Cloudy)](https://awseducate.edukasyon.ph/certificate/2020-siklab-sept-y1TGWo5mAU?utm_campaign=website&utm_source=sendgrid.com&utm_medium=email)
   - [Microsoft Challenges Completed](https://docs.microsoft.com/en-us/users/marcsamuelpabilona/challenges)
 
-- <b>CLOUD SECURITY</b>
+- <b>CLOUD ENGINEERING and SECURITY</b>
+  - [CLOUD ENGINEER ACADEMY](https://www.cloudengineeracademy.io/)
   - [CLOUD SECURITY](https://pwnedlabs.io/)
   - [CYBERNOW EDUCATION](https://www.cybernoweducation.com/challenge-page/cloud-security-now?programId=6e8b17c2-4971-43fb-9b7c-479cb6ce23d1)
   - [Preparing for Your Professional Cloud Security Engineer Journey](https://www.cloudskillsboost.google/course_templates/397/video/376097)
