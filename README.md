@@ -28,6 +28,8 @@
   - [FREE GRC](https://www.freecyber.info/starthere)
 
 - <b>FREE_OFFENSIVE</b>
+  - [ATTACK DEFENSE - THE BEST](https://attackdefense.com/freelabs)
+  - [SCHOLARHAT - PROGRAMMING-CLOUD-DEVOPS-DOCKER](https://www.scholarhat.com/tutorial)
   - [TRY HACK ME](https://tryhackme.com/r/resources/blog/free-offensive-security-training)
   - [Free Information Security Training By Offensive Security](https://www.offsec.com/blog/free-online-information-security-training-by-offensive-security/)
   - [How to get access to free content in the OffSec Learning Library](https://help.offsec.com/hc/en-us/articles/360044925031-How-to-get-access-to-free-content-in-the-OffSec-Learning-Library)
