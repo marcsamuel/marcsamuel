@@ -68,6 +68,7 @@
 
 - <b>Hacking Resources</b>
   - [Hacking Resources](https://github.com/Crypto-Cat/CTF/blob/main/README.md)
+  - [Hacking Tools Repository](https://github.com/aw-junaid/Hacking-Tools/blob/master/README.md)
 
 - <b>100 Days of Cloud</b>
    
