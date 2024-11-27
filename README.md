@@ -94,6 +94,7 @@
 - <b>Free_CyberSecurity_Internship</b>
   - [FORAGE](https://www.theforage.com/)
   - [FREECYBER_INFO](https://www.freecyber.info/apprenticeship)
+  - [Refonte Paid Internship]([https://www.refontelearning.com/study-and-internship)
 
 - <b>Linux Hands-On</b>
   - [BashScripting](https://opensource.com/sites/default/files/gated-content/a_sysadmin_s_guide_to_bash_scripting.pdf)
