@@ -240,7 +240,7 @@
 [twitter]: https://twitter.com/marcpabilona
 [youtube]: https://www.youtube.com/channel/UCRjpR7Fbrv9-hkAVy0ljh4Q
 [instagram]: https://www.instagram.com/mackyiology
-[linkedin]: https://www.linkedin.com/in/marcpabilona
+[linkedin]: https://www.linkedin.com/in/cloudsecurityguy
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
