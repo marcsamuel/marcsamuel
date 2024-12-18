@@ -19,6 +19,9 @@
   - [CLOUD SECURITY](https://pwnedlabs.io/)
   - [CYBERNOW EDUCATION](https://www.cybernoweducation.com/challenge-page/cloud-security-now?programId=6e8b17c2-4971-43fb-9b7c-479cb6ce23d1)
   - [Preparing for Your Professional Cloud Security Engineer Journey](https://www.cloudskillsboost.google/course_templates/397/video/376097)
+
+- <b>ARTIFICIAL INTELLIGENCE</b>
+  - [From Zero to Hero: Learning Through 📖 Open Source AI Projects💻](https://dev.to/swirl/from-zero-to-app-learning-through-open-source-ai-projects-3dkn)
  
 
 - <b>SANS</b>
