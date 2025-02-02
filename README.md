@@ -200,6 +200,7 @@
 
 - <b>Azure Admin Exercises</b>
   - [Azure VM Backup](https://udemy.com/labs/backing-up-azure-vms-with-azure-backup/project-overview/)
+  - [Azure naming tool](https://www.clovernance.com/)
 
 
 - <b>IT Forums and Community</b>
