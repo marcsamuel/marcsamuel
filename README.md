@@ -91,6 +91,8 @@
   - [Cloud Society](https://cloudsociety.microsoft.com/en)
   - [Server-World Info](https://www.server-world.info/en/)
   - [Server Lab](https://www.serverlab.ca/)
+  - [Mastering the Azure Administrator Exam: Hands-On Labs for Success](https://clouddiary.me/mastering-the-azure-administrator-exam-hands-on-labs-for-success/)
+  - [Security & Compliance](https://clouddiary.me/category/security-compliance/)
   
 - <b>Free_CyberSecurity_Professional_Development_Resources</b>
   - [SimplyCyber.io](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources/blob/master/README.md)
