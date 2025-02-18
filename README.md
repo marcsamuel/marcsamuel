@@ -28,6 +28,8 @@
 
 - <b>SANS</b>
   - [SANS FREE](https://www.sans.org/security-resources/)
+  - [Free Cyber Security Training](https://www.sans.org/cyberaces/)
+  - [SANS Jor Roles Roadmap)(https://www.sans.org/job-roles-roadmap/)
 
 - <b>FREE_GRC</b>
   - [FREE GRC](https://www.freecyber.info/starthere)
