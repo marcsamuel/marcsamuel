@@ -251,6 +251,14 @@
 
 - [From Zero to Hero Cloud Operations - October 16 2022] (https://www.facebook.com/fwdpeers/videos/3420834228197526)
 
+<h2>📺 Panel Experiences</h2>
+- [UP Manila Hackathon 2025] (https://web.facebook.com/photo/?fbid=1118927493373389&set=pcb.1118927543373384)
+  [Date: 𝗠𝗮𝘆 10,2025 at 1–3 𝗣𝗠]
+  [Venue: UP Manila]
+- [UP Manila Hackathon 2024] (https://web.facebook.com/UP.SOCOMSCI/posts/pfbid0V7mvf6ZrzC1dgSoZchkGDdiCcgV3UA36kowioTbRVKVdyRi84gtFY6BqbL3128dMl )
+                             (https://web.facebook.com/UP.SOCOMSCI/posts/pfbid0X6fTw4ufnr9SZfV29KkDeefWv7vR4Yj8Bk1iPUHGcKUKVWdMj1cgsF1Df9hwbZQ9l)
+  [Date: November 25,2024]
+  [Venue: Benilde HiFi]
   
 
 <h2> 🤳 Connect with me:</h2>
