@@ -219,6 +219,7 @@
 - <b>Azure Admin Exercises</b>
   - [Azure VM Backup](https://udemy.com/labs/backing-up-azure-vms-with-azure-backup/project-overview/)
   - [Azure naming tool](https://www.clovernance.com/)
+  - [Microsoft Applied Skills - By Role] ([Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/applied-skills/#explore-applied-skills-by-role?wt.mc_id=appliedskills_certoffer_general_wwl_pvue)
 
 
 - <b>IT Forums and Community</b>
