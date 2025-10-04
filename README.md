@@ -31,7 +31,10 @@
   - [From Zero to Hero: Learning Through 📖 Open Source AI Projects💻](https://dev.to/swirl/from-zero-to-app-learning-through-open-source-ai-projects-3dkn)
   - [Without Barriers: AI Learning Pathways (Level 1)](https://learn.microsoft.com/en-us/plans/3opquo7k7pmeom?learnerGroupId=18b707c7-c296-4266-90e8-70b90f7c6a34&source=docs)
   - [Microsoft Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
- 
+
+ - <b>OSINT</b>
+  - [FBI Tools: https://github.com/danieldurnea/FBI-tools/blob/master/Readme.md)
+
 
 - <b>SANS</b>
   - [SANS FREE](https://www.sans.org/security-resources/)
