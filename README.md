@@ -268,7 +268,9 @@
 
 <h2>📺 Guest Speaker Experiences</h2>
 - [Asia Pacific College] (https://www.facebook.com/photo?fbid=1311597440663927&set=a.478445500645796)
-                         (<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPC.JISSA%2Fposts%2Fpfbid02MB4dZTAXGrkonbd4dG1xDE4xHxDMpfyxayhhe7atoBEqcxYa4xRfg7ytsD97SasXl&show_text=true&width=500" width="500" height="664" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>)
+                         (https://www.facebook.com/APC.JISSA/posts/1310542437436094?ref=embed_post)
+
+  [Date: September 30,2025 at 2-3 PM]
 
 
 <h2> 🤳 Connect with me:</h2>
