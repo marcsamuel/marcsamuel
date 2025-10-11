@@ -112,6 +112,9 @@
   
 - <b>Free_CyberSecurity_Professional_Development_Resources</b>
   - [SimplyCyber.io](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources/blob/master/README.md)
+  - [Cyber Security - Skill Up](https://www.geeksforgeeks.org/batch/skill-up-cyber-security?tab=Chapters)
+  - [Certified Associate Penetration Tester](https://app.hackviser.com/certifications/capt)
+  - [Certified Web Security Expert])(https://app.hackviser.com/certifications/cwse)
 
 - <b>Free_CyberSecurity_Internship</b>
   - [FORAGE](https://www.theforage.com/)
